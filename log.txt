@@ -1,0 +1,167 @@
+01/12/2021 03:27:52 PM Started
+01/12/2021 03:27:52 PM Finished
+01/12/2021 03:30:17 PM Started
+01/12/2021 03:35:31 PM Started
+01/12/2021 03:35:44 PM Started
+2021-01-12 15:49:58,858 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 15:49:58,858 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 15:55:00,537 :: INFO :: Start log
+2021-01-12 15:55:00,537 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 15:55:00,537 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 15:55:03,271 :: INFO :: ['Farouck', 'Jordan', 'Thibault', 'Tiphaine', 'Mouni']
+2021-01-12 15:55:03,271 :: INFO :: ['Maria', 'Adlane', 'Joshua', 'Carina', 'Marwa']
+2021-01-12 15:55:03,271 :: INFO :: ['Biben', 'Mohamed', 'Morjane', 'Bernard', 'Souhad']
+2021-01-12 15:55:03,272 :: INFO :: ['Maxime', 'Rayan', 'Youcef', 'Jojo', 'Rachid']
+2021-01-12 15:55:03,272 :: INFO :: End Log
+2021-01-12 15:57:10,165 :: INFO :: Start log
+2021-01-12 15:57:10,165 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 15:57:10,165 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 15:57:11,772 :: INFO :: ['Jordan', 'Carina', 'Marwa', 'Souhad', 'Maria']
+2021-01-12 15:57:11,772 :: INFO :: ['Tiphaine', 'Adlane', 'Maxime', 'Mohamed', 'Joshua']
+2021-01-12 15:57:11,772 :: INFO :: ['Rayan', 'Youcef', 'Bart', 'Mouni', 'Thibault']
+2021-01-12 15:57:11,773 :: INFO :: ['Morjane', 'Rachid', 'Bernard', 'Farouck', 'Jojo']
+2021-01-12 15:57:11,773 :: INFO :: End Log
+2021-01-12 16:01:26,413 :: INFO :: Start log
+2021-01-12 16:01:26,413 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:01:26,413 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:01:28,644 :: INFO :: ['Carina', 'Mohamed', 'Rachid', 'Farouck', 'Morjane', 'Marwa']
+2021-01-12 16:01:28,644 :: INFO :: ['Thibault', 'Bernard', 'Tiphaine', 'Rayan', 'Maria', 'Souhad']
+2021-01-12 16:01:28,644 :: INFO :: ['Joshua', 'Mouni', 'Adlane', 'Biben', 'Youcef', 'Jojo']
+2021-01-12 16:01:28,645 :: INFO :: End Log
+2021-01-12 16:01:47,492 :: INFO :: Start log
+2021-01-12 16:01:47,493 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:01:47,493 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:01:49,576 :: INFO :: 6
+2021-01-12 16:01:49,576 :: INFO :: ['Thibault', 'Jojo', 'Mohamed', 'Rayan', 'Marwa', 'Rachid']
+2021-01-12 16:01:49,577 :: INFO :: ['Biben', 'Morjane', 'Tiphaine', 'Joshua', 'Jordan', 'Youcef']
+2021-01-12 16:01:49,577 :: INFO :: ['Souhad', 'Maxime', 'Bernard', 'Carina', 'Bart', 'Adlane']
+2021-01-12 16:01:49,577 :: INFO :: End Log
+2021-01-12 16:17:00,079 :: INFO :: Start log
+2021-01-12 16:17:00,079 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:17:00,080 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:17:02,529 :: INFO :: 6
+2021-01-12 16:17:02,530 :: INFO :: ['Jordan', 'Bernard', 'Maria', 'Thibault', 'Rayan', 'Maxime']
+2021-01-12 16:17:02,530 :: INFO :: ['Biben', 'Rachid', 'Jojo', 'Mohamed', 'Youcef', 'Carina']
+2021-01-12 16:17:02,531 :: INFO :: ['Morjane', 'Tiphaine', 'Mouni', 'Joshua', 'Souhad', 'Adlane']
+2021-01-12 16:17:02,532 :: INFO :: End Log
+2021-01-12 16:19:07,875 :: INFO :: Start log
+2021-01-12 16:19:07,875 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:19:07,875 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:19:10,797 :: INFO :: 5
+2021-01-12 16:19:10,797 :: INFO :: ['Biben', 'Jojo', 'Souhad', 'Tiphaine', 'Marwa']
+2021-01-12 16:19:10,797 :: INFO :: ['Thibault', 'Adlane', 'Morjane', 'Maria', 'Mouni']
+2021-01-12 16:19:10,798 :: INFO :: ['Bart', 'Farouck', 'Bernard', 'Maxime', 'Youcef']
+2021-01-12 16:19:10,798 :: INFO :: ['Rayan', 'Jordan', 'Mohamed', 'Carina', 'Joshua']
+2021-01-12 16:19:10,798 :: INFO :: End Log
+2021-01-12 16:21:15,181 :: INFO :: Start log
+2021-01-12 16:21:15,181 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:21:15,181 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:21:17,199 :: INFO :: 5
+2021-01-12 16:21:17,200 :: INFO :: ['Souhad', 'Bernard', 'Joshua', 'Carina', 'Maxime']
+2021-01-12 16:21:17,201 :: INFO :: ['Bart', 'Tiphaine', 'Youcef', 'Jordan', 'Farouck']
+2021-01-12 16:21:17,201 :: INFO :: ['Morjane', 'Mouni', 'Rachid', 'Marwa', 'Thibault']
+2021-01-12 16:21:17,202 :: INFO :: ['Mohamed', 'Rayan', 'Adlane', 'Biben', 'Maria']
+2021-01-12 16:21:17,203 :: INFO :: End Log
+2021-01-12 16:23:57,898 :: INFO :: Start log
+2021-01-12 16:23:57,899 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:23:57,899 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:23:59,664 :: INFO :: 4
+2021-01-12 16:23:59,665 :: INFO :: ['Souhad', 'Farouck', 'Tiphaine', 'Jordan']
+2021-01-12 16:23:59,665 :: INFO :: ['Mohamed', 'Bernard', 'Rachid', 'Marwa']
+2021-01-12 16:23:59,666 :: INFO :: ['Maria', 'Bart', 'Jojo', 'Maxime']
+2021-01-12 16:23:59,666 :: INFO :: ['Biben', 'Mouni', 'Carina', 'Youcef']
+2021-01-12 16:23:59,667 :: INFO :: ['Rayan', 'Morjane', 'Thibault', 'Adlane']
+2021-01-12 16:23:59,667 :: INFO :: End Log
+2021-01-12 16:26:17,694 :: INFO :: Start log
+2021-01-12 16:26:17,694 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:26:17,694 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:26:20,178 :: INFO :: 5
+2021-01-12 16:26:20,178 :: INFO :: ['Thibault', 'Maxime', 'Carina', 'Farouck', 'Biben']
+2021-01-12 16:26:20,178 :: INFO :: ['Maria', 'Bernard', 'Mouni', 'Jojo', 'Jordan']
+2021-01-12 16:26:20,179 :: INFO :: ['Rachid', 'Mohamed', 'Marwa', 'Souhad', 'Youcef']
+2021-01-12 16:26:20,179 :: INFO :: ['Rayan', 'Bart', 'Adlane', 'Morjane', 'Joshua']
+2021-01-12 16:26:20,179 :: INFO :: End Log
+2021-01-12 16:33:09,329 :: INFO :: Start log
+2021-01-12 16:33:09,329 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:33:09,329 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:33:11,956 :: INFO :: 5
+2021-01-12 16:33:11,957 :: INFO :: ['Carina', 'Rayan', 'Farouck', 'Mouni', 'Bart']
+2021-01-12 16:33:11,958 :: INFO :: ['Marwa', 'Tiphaine', 'Adlane', 'Maxime', 'Thibault']
+2021-01-12 16:33:11,958 :: INFO :: ['Mohamed', 'Bernard', 'Joshua', 'Morjane', 'Youcef']
+2021-01-12 16:33:11,959 :: INFO :: ['Rachid', 'Maria', 'Souhad', 'Jordan', 'Biben']
+2021-01-12 16:33:11,960 :: INFO :: End Log
+2021-01-12 16:37:37,294 :: INFO :: Start log
+2021-01-12 16:37:37,294 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:37:37,295 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:37:39,244 :: INFO :: 7
+2021-01-12 16:37:39,245 :: INFO :: ['Souhad', 'Morjane', 'Bart', 'Joshua', 'Maria', 'Mouni', 'Tiphaine']
+2021-01-12 16:37:39,245 :: INFO :: ['Marwa', 'Rayan', 'Bernard', 'Farouck', 'Carina', 'Adlane', 'Biben']
+2021-01-12 16:37:39,246 :: INFO :: End Log
+2021-01-12 16:41:09,722 :: INFO :: Start log
+2021-01-12 16:41:09,723 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:41:09,723 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:41:11,500 :: INFO :: 4
+2021-01-12 16:41:11,500 :: INFO :: ['Mohamed', 'Tiphaine', 'Morjane', 'Bernard']
+2021-01-12 16:41:11,501 :: INFO :: ['Marwa', 'Maria', 'Rachid', 'Farouck']
+2021-01-12 16:41:11,502 :: INFO :: ['Thibault', 'Carina', 'Bart', 'Souhad']
+2021-01-12 16:41:11,503 :: INFO :: ['Rayan', 'Biben', 'Mouni', 'Youcef']
+2021-01-12 16:41:11,503 :: INFO :: ['Adlane', 'Maxime', 'Jojo', 'Joshua']
+2021-01-12 16:41:11,504 :: INFO :: End Log
+2021-01-12 16:41:47,875 :: INFO :: Start log
+2021-01-12 16:41:47,875 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:41:47,875 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:41:49,038 :: INFO :: 5
+2021-01-12 16:41:49,039 :: INFO :: ['Morjane', 'Maria', 'Rayan', 'Marwa', 'Joshua']
+2021-01-12 16:41:49,039 :: INFO :: ['Maxime', 'Tiphaine', 'Jordan', 'Bart', 'Mohamed']
+2021-01-12 16:41:49,039 :: INFO :: ['Rachid', 'Mouni', 'Carina', 'Bernard', 'Farouck']
+2021-01-12 16:41:49,039 :: INFO :: ['Biben', 'Youcef', 'Jojo', 'Souhad', 'Thibault']
+2021-01-12 16:41:49,040 :: INFO :: End Log
+2021-01-12 16:42:24,827 :: INFO :: Start log
+2021-01-12 16:42:24,827 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:42:24,827 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:42:29,507 :: INFO :: 5
+2021-01-12 16:42:29,508 :: INFO :: ['Maria', 'Rachid', 'Mouni', 'Morjane', 'Youcef']
+2021-01-12 16:42:29,508 :: INFO :: ['Marwa', 'Mohamed', 'Bart', 'Adlane', 'Carina']
+2021-01-12 16:42:29,508 :: INFO :: ['Farouck', 'Jojo', 'Joshua', 'Thibault', 'Maxime']
+2021-01-12 16:42:29,509 :: INFO :: ['Tiphaine', 'Souhad', 'Jordan', 'Bernard', 'Rayan']
+2021-01-12 16:42:29,509 :: INFO :: End Log
+2021-01-12 16:45:41,961 :: INFO :: Start log
+2021-01-12 16:45:41,962 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:45:41,962 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:45:44,034 :: INFO :: 5
+2021-01-12 16:45:44,035 :: INFO :: ['Marwa', 'Adlane', 'Bernard', 'Biben', 'Rachid']
+2021-01-12 16:45:44,035 :: INFO :: ['Mohamed', 'Tiphaine', 'Maxime', 'Farouck', 'Rayan']
+2021-01-12 16:45:44,036 :: INFO :: ['Bart', 'Joshua', 'Morjane', 'Jojo', 'Carina']
+2021-01-12 16:45:44,036 :: INFO :: ['Souhad', 'Mouni', 'Youcef', 'Maria', 'Jordan']
+2021-01-12 16:45:44,037 :: INFO :: End Log
+2021-01-12 16:46:44,965 :: INFO :: Start log
+2021-01-12 16:46:44,965 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:46:44,965 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:46:45,969 :: INFO :: 5
+2021-01-12 16:46:45,969 :: INFO :: ['Mouni', 'Joshua', 'Rayan', 'Bart', 'Maxime']
+2021-01-12 16:46:45,970 :: INFO :: ['Carina', 'Farouck', 'Thibault', 'Marwa', 'Bernard']
+2021-01-12 16:46:45,970 :: INFO :: ['Youcef', 'Jojo', 'Rachid', 'Biben', 'Maria']
+2021-01-12 16:46:45,970 :: INFO :: ['Jordan', 'Souhad', 'Morjane', 'Tiphaine', 'Mohamed']
+2021-01-12 16:46:45,970 :: INFO :: End Log
+2021-01-12 16:52:59,366 :: INFO :: Start log
+2021-01-12 16:52:59,366 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 16:52:59,366 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 16:53:00,906 :: INFO :: 8
+2021-01-12 16:53:00,906 :: INFO :: ['Morjane', 'Jojo', 'Biben', 'Maxime', 'Farouck', 'Jordan', 'Bernard', 'Marwa']
+2021-01-12 16:53:00,907 :: INFO :: {1: ['Morjane', 'Jojo', 'Biben', 'Maxime', 'Farouck', 'Jordan', 'Bernard', 'Marwa']}
+2021-01-12 16:53:00,907 :: INFO :: ['Mouni', 'Thibault', 'Rachid', 'Joshua', 'Souhad', 'Carina', 'Bart', 'Mohamed']
+2021-01-12 16:53:00,907 :: INFO :: {1: ['Morjane', 'Jojo', 'Biben', 'Maxime', 'Farouck', 'Jordan', 'Bernard', 'Marwa'], 2: ['Mouni', 'Thibault', 'Rachid', 'Joshua', 'Souhad', 'Carina', 'Bart', 'Mohamed']}
+2021-01-12 16:53:00,907 :: INFO :: End Log
+2021-01-12 17:05:19,612 :: INFO :: Start log
+2021-01-12 17:05:19,612 :: INFO :: Jordan Mouni Maxime Adlane Thibault Bart Mohamed Farouck Joshua Souhad Morjane Rachid Rayan Jojo Marwa Tiphaine Carina Maria Bernard Youcef Biben
+2021-01-12 17:05:19,612 :: INFO :: ['Jordan', 'Mouni', 'Maxime', 'Adlane', 'Thibault', 'Bart', 'Mohamed', 'Farouck', 'Joshua', 'Souhad', 'Morjane', 'Rachid', 'Rayan', 'Jojo', 'Marwa', 'Tiphaine', 'Carina', 'Maria', 'Bernard', 'Youcef', 'Biben']
+2021-01-12 17:05:22,506 :: INFO :: 5
+2021-01-12 17:05:22,507 :: INFO :: ['Maxime', 'Carina', 'Marwa', 'Adlane', 'Bernard']
+2021-01-12 17:05:22,507 :: INFO :: {1: ['Maxime', 'Carina', 'Marwa', 'Adlane', 'Bernard']}
+2021-01-12 17:05:22,507 :: INFO :: ['Maria', 'Mouni', 'Rayan', 'Biben', 'Farouck']
+2021-01-12 17:05:22,507 :: INFO :: {1: ['Maxime', 'Carina', 'Marwa', 'Adlane', 'Bernard'], 2: ['Maria', 'Mouni', 'Rayan', 'Biben', 'Farouck']}
+2021-01-12 17:05:22,507 :: INFO :: ['Mohamed', 'Thibault', 'Joshua', 'Souhad', 'Morjane']
+2021-01-12 17:05:22,507 :: INFO :: {1: ['Maxime', 'Carina', 'Marwa', 'Adlane', 'Bernard'], 2: ['Maria', 'Mouni', 'Rayan', 'Biben', 'Farouck'], 3: ['Mohamed', 'Thibault', 'Joshua', 'Souhad', 'Morjane']}
+2021-01-12 17:05:22,507 :: INFO :: ['Tiphaine', 'Bart', 'Rachid', 'Jojo', 'Youcef']
+2021-01-12 17:05:22,507 :: INFO :: {1: ['Maxime', 'Carina', 'Marwa', 'Adlane', 'Bernard'], 2: ['Maria', 'Mouni', 'Rayan', 'Biben', 'Farouck'], 3: ['Mohamed', 'Thibault', 'Joshua', 'Souhad', 'Morjane'], 4: ['Tiphaine', 'Bart', 'Rachid', 'Jojo', 'Youcef']}
+2021-01-12 17:05:22,508 :: INFO :: End Log
